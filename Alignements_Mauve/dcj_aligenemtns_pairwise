@@ -1,0 +1,35 @@
+# Rearrangement distances based on pairwise LCBs #
+
+# 1: Blochmannia floridanus complete genome.txt
+# 2: Candidatus Blochmannia chromaiodes str. 640, complete genome.txt
+# 3: Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.txt
+# 4: Enterobacter hormaechei strain C126 chromosome, complete genome.txt
+# 5: Klebsiella pneumoniae strain NB5306 chromosome, complete genome.txt
+
+# Number of Blocks
+0
+6675	0
+6675	6675	0
+6675	6675	6675	0
+6675	6675	6675	6675	0
+
+# DCJ distance
+0
+5	0
+6643	0	0
+7	6642	2	0
+6643	2	6642	0	0
+
+# SCJ distance
+0
+13334	0
+13336	13334	0
+13334	13336	13334	0
+13336	13334	13336	13334	0
+
+# Breakpoint distance
+0
+6667	0
+6668	6667	0
+6667	6668	6667	0
+6668	6667	6668	6667	0
