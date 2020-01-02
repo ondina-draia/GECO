@@ -1,0 +1,11 @@
+Here we have one file containing an EXCEL file:
+
+The sheets of this file contain:
+
+1) The table containing the number of genes for each organism, the average length of the genes, their density
+2) The table containing the ratio of the dinucleotide frequency that was observed / the one that was expected
+3) The codon usage per thousand table obtained
+4) The cumulative frequency of the trinucleotids table that was obtaned
+5) The RSCU table
+
+The other sheets contain the figures linked to the different tables 
