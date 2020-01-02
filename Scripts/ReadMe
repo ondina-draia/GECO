@@ -1,8 +1,14 @@
 Script description and explanation:
 
 NbGen_AvgLen_GenDen.py
+Permet de calculer:
+- le nombre de genes présents dans une séquence
+- la longueur moyenne de ces gènes
+- la densité de gènes
 
 OBS_EXP.pl
+Ce script Pearl utilisé permet de calculer:
+- le ratio fréquence des dinucleotides observés/attendus
 
 blastscript.sh
 Create databases from each genome
