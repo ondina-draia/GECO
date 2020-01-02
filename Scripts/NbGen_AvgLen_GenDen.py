@@ -1,4 +1,5 @@
-import pandas as pd
+#This script computes the number of genes that are present in a sequence, their average length and the gene density
+import pandas as pd 
 
 def geneLength(filename):  # get CDS size (to get average gene length + gene density)
     with open(filename) as f:
@@ -9,7 +10,7 @@ def geneLength(filename):  # get CDS size (to get average gene length + gene den
     seqact = ''
     # previousLine = ""
 
-    #creation dictionnaire qui recupere chaque id comme cle et chaque sequence comme valeur associee
+    #created adictionnary that gets each id as its keys and each sequence as the associated values
     for line in content:
         if line.startswith(">"):
             seq = seq + line[5:40] + ' '
@@ -24,7 +25,7 @@ def geneLength(filename):  # get CDS size (to get average gene length + gene den
     return seqdict
     
 
-def NAG(filename):
+def NAG(filename): #shows the gene length, the average gene length and the gene density
     sequence = geneLength(filename)
     i = 0 #va compter le nombre de genes
     genelengths= []
