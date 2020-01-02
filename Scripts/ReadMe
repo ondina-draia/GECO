@@ -1,1 +1,20 @@
-Description
+Script description and explanation:
+
+NbGen_AvgLen_GenDen.py
+
+OBS_EXP.pl
+
+blastscript.sh
+Create databases from each genome
+and run protein BLAST against each specie.
+Filter for 80% sequence coverage length and 30% identity match.
+
+coregenome.sh
+Consider only bidirectional hits
+and add hits to obtain the pan genome
+or compare hits to obtain the core genome.
+
+eggnog_comparaison.py
+Compare number of orthologs found in eggNOG diamond and hmmer
+and found differences.
+And found most common GO terms in eggNOG diamond and hmmer.
