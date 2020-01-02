@@ -1,5 +1,6 @@
 # GECO
-Auteurs: Murray Madeleine & Draia-Nicolau Ondina
+# Auteurs: Murray Madeleine & Draia-Nicolau Ondina
+
 Ici vous pouvez consulter les fichiers qui ont été necessaires à la réalisation de notre projet, "Into the genome of Candidatus Blochmannia pennsylvanicus".
 
 Il y a ici:
