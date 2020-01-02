@@ -1,5 +1,5 @@
 #Observed dinculeotide frequency (Obs)
-# Expected dinucleotide frequency given a random nucléootide distribution(Exp) 
+#Expected dinucleotide frequency given a random nucléootide distribution(Exp) 
 #Ratio Obs/Exp
 
 #Random sequence generation:
